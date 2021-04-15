@@ -56,7 +56,7 @@ However, your program should work with any number of outcomes generated.
 Extend your program to add an additional histogram that displays vertically so the stars in a category 
 should go downwards and not across the screen, e.g.:</p><br/>
 
-<img width="111" alt="Capture3" src="https://user-images.githubusercontent.com/66563618/114900293-5ca78280-9e31-11eb-973d-4fd782989638.PNG">
+<img width="111" alt="Capture3" src="https://user-images.githubusercontent.com/66563618/114900293-5ca78280-9e31-11eb-973d-4fd782989638.PNG"><br/>
 
 <ul>
 <li>Hint: as a line is printed decide if each category needs a star or space. </li>
