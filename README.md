@@ -5,7 +5,7 @@
 <h3>The University requires a program to predict progression outcomes at the end of each academic 
 year. You should write this program in Python using the data shown in Table 1.  </h3>
 
-<p>Part 1 - Student Version <br/>
+<p><h2>Part 1 - Student Version </h2><br/>
 <ol>
 <li>The program should allow students to predict their progression outcome at the end of each 
 academic year. </li>
@@ -26,7 +26,7 @@ your flow diagram and program code) and bring a printed copy of the test plan to
 </p><br/>
 <img width="277" alt="Capture2" src="https://user-images.githubusercontent.com/66563618/114899726-d723d280-9e30-11eb-8125-04744a35663a.PNG">
 
-<p>Part 2 - Staff Version <br/>
+<p><h2>Part 2 - Staff Version</h2> <br/>
 This extension should meet the requirements specified for Part 1 but also allow a staff member to 
 predict progression outcomes for multiple students. 
 <ol>
@@ -37,6 +37,7 @@ student who achieved a progress outcome in the category range: progress, trailin
 retriever and exclude. See example below. </li>
 <li>The program should display the number of students for each progression category and the total 
 number of outcomes processed. </li>
+</ol>
 
 <ul>
 <li>The program will make use of loops and user-defined functions. </li>
@@ -44,13 +45,14 @@ number of outcomes processed. </li>
 that represents your algorithm in a structured manner. Submit flowchart for Part 2 for marking. </li>
 <li>Test Plan – You are required to create your own test plan for Part 2. Submit the completed Part 2 
 test plan (with your flow diagram and program code) and bring a printed copy to the demo</li>
+</ul>
 
 This following horizontal histogram example shows the output distribution for 20 outcomes. 
 However, your program should work with any number of outcomes generated. 
 </p><br/>
 <img width="370" alt="Capture" src="https://user-images.githubusercontent.com/66563618/114899533-a9d72480-9e30-11eb-8a44-e25e8c3648ad.PNG">
 
-<p>Part 3 - Vertical Histogram (optional extension) <br/>
+<p><h2>Part 3 - Vertical Histogram (optional extension)</h2> <br/>
 Extend your program to add an additional histogram that displays vertically so the stars in a category 
 should go downwards and not across the screen, e.g.:</p><br/>
 
@@ -67,7 +69,7 @@ input. The data held in the list, tuple or dictionary will match the test cases 
 appendix. Use user-defined functions. 
 <ul>
 <li>Part 4 does NOT require a flow diagram or a test plan. <li/>
-<li>If attempted, the code for both staff versions (Part 2 and Part 4) must be submitted for marking. </li></p>
+<li>If attempted, the code for both staff versions (Part 2 and Part 4) must be submitted for marking. </li></ul></p>
 
 
 
