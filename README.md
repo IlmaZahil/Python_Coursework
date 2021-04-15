@@ -67,16 +67,7 @@ input. The data held in the list, tuple or dictionary will match the test cases 
 appendix. Use user-defined functions. 
 <ul>
 <li>Part 4 does NOT require a flow diagram or a test plan. <li/>
-<li>If attempted, the code for both staff versions (Part 2 and Part 4) must be submitted for marking. </li>
- 
-Programming Style & References 
-Use descriptive variable names and reference any code taken from others sources in your program code. 
-Include the following at the top of your program(s).<br/>
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion. <br/>
-# Any code taken from other sources is referenced within my code solution. <br/>
-# Student ID: ……………………… <br/>
- 
-# Date: ……………………… </p>
+<li>If attempted, the code for both staff versions (Part 2 and Part 4) must be submitted for marking. </li></p>
 
 
 
