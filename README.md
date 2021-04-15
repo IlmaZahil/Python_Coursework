@@ -24,7 +24,7 @@ that represents your algorithm in a structured manner. Submit flowchart for Part
 <li>Test Plan - A Part 1 test plan is provided in the appendix. Submit the completed test plan (with 
 your flow diagram and program code) and bring a printed copy of the test plan to the demo. </li>
 </p><br/>
-<img width="277" alt="Capture2" src="https://user-images.githubusercontent.com/66563618/114899726-d723d280-9e30-11eb-8125-04744a35663a.PNG">
+<img width="277" alt="Capture2" src="https://user-images.githubusercontent.com/66563618/114899726-d723d280-9e30-11eb-8125-04744a35663a.PNG"><br/>
 
 <p><h2>Part 2 - Staff Version</h2> <br/>
 This extension should meet the requirements specified for Part 1 but also allow a staff member to 
