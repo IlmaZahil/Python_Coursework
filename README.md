@@ -1,6 +1,6 @@
 <h1 align="center"> Python Coursework 🔥 </h1> <br/>
 
-<h2>Corsework Description</h2><br/>
+<h2>Corsework Description 📚</h2><br/>
 
 <h3>The University requires a program to predict progression outcomes at the end of each academic 
 year. You should write this program in Python using the data shown in Table 1.  </h3>
